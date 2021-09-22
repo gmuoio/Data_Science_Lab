@@ -1,2 +1,2 @@
-# Data_Science_Lab
+# Data Science Lab
 Data Science Lab project
